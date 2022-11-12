@@ -35,6 +35,12 @@
                     </div>
                     <div class="row">
                         <div class="mb-2 text-center">
+                            <a href="/" style="text-decoration: none; color:white">Dashboard</a>
+                            <hr>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="mb-2 text-center">
                             <a href="/purchase" style="text-decoration: none; color:white">Purchase Order</a>
                             <hr>
                         </div>
